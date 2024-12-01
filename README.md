@@ -36,7 +36,7 @@ The project includes a multi-layer network topology, featuring core, distributio
 - Serves as a reference for designing secure and efficient network architectures.
 
 ## Installation and Usage
-Clone the repository and open the `.pkt` file in Cisco Packet Tracer to explore and modify the network configuration.
-Note-> If you want to open the .pkt itself, you will need a Cisco account so you can open it.
+- Clone the repository and open the `.pkt` file in Cisco Packet Tracer to explore and modify the network configuration.
+- Note-> If you want to open the .pkt itself, you will need a Cisco account so you can open it.
 
 
