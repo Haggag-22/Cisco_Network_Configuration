@@ -1,6 +1,9 @@
-# Cisco Network Configuration Project
+ Cisco Network Configuration Project
 
 This project showcases a comprehensive network infrastructure design using Cisco Packet Tracer. The network includes a variety of advanced features and protocols, simulating a real-world corporate network environment with robust connectivity and security.
+
+![Network Config](https://github.com/user-attachments/assets/035fc873-5123-44c3-91d3-3a5e194840fa)
+
 
 ## Project Overview
 The network is built with multiple Cisco devices, employing best practices and industry standards. It integrates various technologies to ensure seamless communication, security, and efficient resource management across different network segments.
