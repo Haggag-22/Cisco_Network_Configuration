@@ -37,6 +37,6 @@ The project includes a multi-layer network topology, featuring core, distributio
 
 ## Installation and Usage
 Clone the repository and open the `.pkt` file in Cisco Packet Tracer to explore and modify the network configuration.
+Note-> If you want to open the .pkt itself, you will need a Cisco account so you can open it.
 
-## License
-This project is licensed under the MIT License.
+
